@@ -1,0 +1,19 @@
+{
+  "name": "corporate-speak-generator",
+  "version": "1.0.0",
+  "description": "Generate meaningless business jargon for meetings",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["corporate", "jargon", "generator", "business"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
