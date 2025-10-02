@@ -1,4 +1,4 @@
-# 🎩 Corporate Speak Generator
+# 🎩 Corporate Interpreter
 
 Transform simple ideas into impressive business jargon. Never sound unprofessional in a meeting again!
 

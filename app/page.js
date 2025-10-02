@@ -344,7 +344,7 @@ function CorporateSpeakGenerator() {
   return (
     <div style={styles.container}>
       <div style={styles.card}>
-        <h1 style={styles.title}>🎩 Corporate Speak Generator</h1>
+        <h1 style={styles.title}>🎩 Corporate Interpreter</h1>
         <p style={styles.subtitle}>Transform simple ideas into impressive business jargon</p>
 
         {/* Mode Selector */}

@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Corporate Speak Generator - Make Your Meetings Sound Important',
+  title: 'Corporate Interpreter - Make Your Meetings Sound Important',
   description: 'Transform simple ideas into impressive corporate jargon. Generate buzzword-laden phrases for meetings, emails, and presentations.',
 }
 
