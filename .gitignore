@@ -31,3 +31,13 @@ yarn-error.log*
 # Typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Business plans (private)
+MONETIZATION_PLAN.md
+MONETIZATION_SETUP.md
+STRIPE_SETUP.md
+PRODUCT_HUNT_LAUNCH.md
+LAUNCH_CHECKLIST.md
+LAUNCH_READY.md
+LAUNCH_NOW_FREE.md
+START_HERE.md
